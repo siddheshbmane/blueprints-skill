@@ -1,5 +1,7 @@
 # Blueprints — Cross-Tool Product Development Skill
 
+[![skills.sh](https://skills.sh/b/siddheshbmane/blueprints-skill)](https://skills.sh/siddheshbmane/blueprints-skill)
+
 > **A portable Agent Skill that turns any AI coding tool into a documentation-first, qualify-first SaaS product builder.**
 
 Built from a real-world SaaS playbook (~8,700 lines) and distilled into a lean
